@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\StandardWeightSwitch110910020\StandardWeightSwitch110910020\bin\Debug\StandardWeightSwitch110910020.exe.config
+C:\Users\user\source\repos\StandardWeightSwitch110910020\StandardWeightSwitch110910020\bin\Debug\StandardWeightSwitch110910020.exe
+C:\Users\user\source\repos\StandardWeightSwitch110910020\StandardWeightSwitch110910020\bin\Debug\StandardWeightSwitch110910020.pdb
+C:\Users\user\source\repos\StandardWeightSwitch110910020\StandardWeightSwitch110910020\obj\Debug\StandardWeightSwitch110910020.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\StandardWeightSwitch110910020\StandardWeightSwitch110910020\obj\Debug\StandardWeightSwitch110910020.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\StandardWeightSwitch110910020\StandardWeightSwitch110910020\obj\Debug\StandardWeightSwitch110910020.Form1.resources
+C:\Users\user\source\repos\StandardWeightSwitch110910020\StandardWeightSwitch110910020\obj\Debug\StandardWeightSwitch110910020.Properties.Resources.resources
+C:\Users\user\source\repos\StandardWeightSwitch110910020\StandardWeightSwitch110910020\obj\Debug\StandardWeightSwitch110910020.csproj.GenerateResource.cache
+C:\Users\user\source\repos\StandardWeightSwitch110910020\StandardWeightSwitch110910020\obj\Debug\StandardWeightSwitch110910020.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\StandardWeightSwitch110910020\StandardWeightSwitch110910020\obj\Debug\StandardWeightSwitch110910020.exe
+C:\Users\user\source\repos\StandardWeightSwitch110910020\StandardWeightSwitch110910020\obj\Debug\StandardWeightSwitch110910020.pdb
