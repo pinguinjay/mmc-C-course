@@ -1,0 +1,11 @@
+C:\Users\acer\source\repos\SkeletonMuscle110910020\SkeletonMuscle110910020\bin\Debug\SkeletonMuscle110910020.exe.config
+C:\Users\acer\source\repos\SkeletonMuscle110910020\SkeletonMuscle110910020\bin\Debug\SkeletonMuscle110910020.exe
+C:\Users\acer\source\repos\SkeletonMuscle110910020\SkeletonMuscle110910020\bin\Debug\SkeletonMuscle110910020.pdb
+C:\Users\acer\source\repos\SkeletonMuscle110910020\SkeletonMuscle110910020\obj\Debug\SkeletonMuscle110910020.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\SkeletonMuscle110910020\SkeletonMuscle110910020\obj\Debug\SkeletonMuscle110910020.csproj.SuggestedBindingRedirects.cache
+C:\Users\acer\source\repos\SkeletonMuscle110910020\SkeletonMuscle110910020\obj\Debug\SkeletonMuscle110910020.Form1.resources
+C:\Users\acer\source\repos\SkeletonMuscle110910020\SkeletonMuscle110910020\obj\Debug\SkeletonMuscle110910020.Properties.Resources.resources
+C:\Users\acer\source\repos\SkeletonMuscle110910020\SkeletonMuscle110910020\obj\Debug\SkeletonMuscle110910020.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\SkeletonMuscle110910020\SkeletonMuscle110910020\obj\Debug\SkeletonMuscle110910020.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\SkeletonMuscle110910020\SkeletonMuscle110910020\obj\Debug\SkeletonMuscle110910020.exe
+C:\Users\acer\source\repos\SkeletonMuscle110910020\SkeletonMuscle110910020\obj\Debug\SkeletonMuscle110910020.pdb
