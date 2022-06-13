@@ -1,0 +1,13 @@
+C:\Users\acer\source\repos\Elder_110910020\Elder_110910020\bin\Debug\Database_PersonInfo.mdf
+C:\Users\acer\source\repos\Elder_110910020\Elder_110910020\bin\Debug\Database_PersonInfo_log.ldf
+C:\Users\acer\source\repos\Elder_110910020\Elder_110910020\bin\Debug\Elder_110910020.exe.config
+C:\Users\acer\source\repos\Elder_110910020\Elder_110910020\bin\Debug\Elder_110910020.exe
+C:\Users\acer\source\repos\Elder_110910020\Elder_110910020\bin\Debug\Elder_110910020.pdb
+C:\Users\acer\source\repos\Elder_110910020\Elder_110910020\obj\Debug\Elder_110910020.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\Elder_110910020\Elder_110910020\obj\Debug\Elder_110910020.csproj.SuggestedBindingRedirects.cache
+C:\Users\acer\source\repos\Elder_110910020\Elder_110910020\obj\Debug\Elder_110910020.Form1.resources
+C:\Users\acer\source\repos\Elder_110910020\Elder_110910020\obj\Debug\Elder_110910020.Properties.Resources.resources
+C:\Users\acer\source\repos\Elder_110910020\Elder_110910020\obj\Debug\Elder_110910020.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\Elder_110910020\Elder_110910020\obj\Debug\Elder_110910020.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\Elder_110910020\Elder_110910020\obj\Debug\Elder_110910020.exe
+C:\Users\acer\source\repos\Elder_110910020\Elder_110910020\obj\Debug\Elder_110910020.pdb
